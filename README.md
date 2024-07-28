@@ -2,11 +2,13 @@
 
 ![Placeholder for Image](https://i.pinimg.com/564x/68/d3/5c/68d35c6ec496f24c1d902d39a85b70a8.jpg)
 
+## Demo
+You can see the project in action [here](https://9elmaz9.github.io/LikeMe/). Double-click on the image to see the heart animation and the like counter increase.
+
 ## Description
 The **Double Click Heart** project is a simple and fun web application that allows users to express their appreciation by double-clicking on an image. Each double-click generates a heart animation on the image and increments a counter displaying the total number of likes.
 
-## Demo
-You can see the project in action [here](https://9elmaz9.github.io/LikeMe/). Double-click on the image to see the heart animation and the like counter increase.
+
 
 ## Features
 - **Double Click to Like**: Double-clicking on the image creates a heart animation at the click position.
