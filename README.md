@@ -15,6 +15,11 @@ The **Double Click Heart** project is a simple and fun web application that allo
 - **Like Counter**: Keeps track of how many times the image has been liked.
 - **Responsive Design**: The application is responsive and works on different screen sizes.
 
+## Technologies Used
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the web page.
+- **JavaScript**: For adding interactivity (double-click detection and heart animation).
+
 ## Installation
 To get a local copy up and running, follow these simple steps:
 
