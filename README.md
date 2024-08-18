@@ -1,6 +1,7 @@
 # LikeMe
 
-![Placeholder for Image](https://i.pinimg.com/564x/68/d3/5c/68d35c6ec496f24c1d902d39a85b70a8.jpg)
+<!--
+![Placeholder for Image](https://i.pinimg.com/564x/68/d3/5c/68d35c6ec496f24c1d902d39a85b70a8.jpg) -->
 ![](https://sunveter.ru/uploads/posts/2022-01/1642925107_dovolnoe-serdechko.gif)
 
 ## Demo
